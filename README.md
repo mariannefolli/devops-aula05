@@ -4,3 +4,8 @@ hoje vamos aprender a criar branch no git.
 
 
 testes de alteração no branch v1.
+
+
+agora estamos no branch v2.
+
+
